@@ -55,6 +55,7 @@ Citric Acid Addition
 
 
 Chlorides/Salty Taste
+
 1- For every quality grade, white wine tastes more salty than red wine.
 2- The salty taste of red and white wine became prominent as quality decreased.
 
