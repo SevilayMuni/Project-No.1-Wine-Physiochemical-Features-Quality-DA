@@ -44,6 +44,7 @@ Fixed Acidity
 2-Fixed acidity remains stable for all quality classes of red and white wine (comparison done within each wine type). 
 
 Volatile Acidity
+
 3- For red wine, as volatile acidity increases, quality decreases.
 4- This volatile acidity correlation *is not valid* for white wine.
 
