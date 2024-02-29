@@ -60,8 +60,8 @@ Chlorides/Salty Taste
 
 
 ## Dashboard Images 
-![Dashboard 1](./Dashboard-images/Dashboard-1-study-mobility.png)
-![Dashboard 2](./Dashboard-images/Dashboard-2-study-mobility.png)
+![Dashboard 1](./Dashboard-images/Dashboard-1-wine-quality.png)
+![Dashboard 2](./Dashboard-images/Dashboard-2-wine-quality.png)
 
 
 ## Background to Dataset
@@ -74,7 +74,6 @@ Residual Sugar is from natural grape sugars leftover in a wine after the alcohol
 Residual sugar levels vary in different types of wine. In fact, many grocery store wines labeled as “dry" contain about 10 g/L of residual sugar. Noticeably sweet wines start at around 35 grams per liter of residual sugar and then go up from there (Wang & Peng, 2017).
 
 Volatile acidity is a measure of the low molecular weight (or steam distillable) fatty acids in wine and is generally perceived as the odour of vinegar. Winemakers are usually most concerned with acetic acid, which accounts for more than 93% of steam distillable acids in wine. The average volatile acidity value for red table wines during this period is about 0.60 g/L. The average volatile acidity value for white table wines is about 0.43 g/L (Vilela, 2018).
-
 
 
 
